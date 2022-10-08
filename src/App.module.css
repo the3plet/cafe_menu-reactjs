@@ -61,8 +61,10 @@ h5{
     border-style: solid;
     border-width: 10px;
     height: 40px;
-    width: 160px;
-    padding-top: 5px;
+    width: 110px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    
     margin-left: auto;
     margin-right: auto;
     
@@ -72,4 +74,14 @@ h5{
     border-color: white;
     border-style: solid;
     border-width: 2px;
+    padding: 2px;
+}
+.sooraj{
+    
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: medium;
+    color: black;
 }
