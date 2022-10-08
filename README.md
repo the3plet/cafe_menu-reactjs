@@ -1,7 +1,9 @@
 ## Free time project
 
 This was orginally created in HTML,CSS. Later converted to React.js <br>
-Live Preview: https://mucafe.netlify.app/
+Live Preview: https://mucafe.netlify.app/ <br>
+
+This Project was orginally made to view on Desktop. Mobile users, switch to `Desktop Site` Mode.
 
 ### Clone and run
 
